@@ -1,2 +1,4 @@
 # just_coding
- this is my first git repositories
+ this is my first git repository.
+
+ author - shatrughan
